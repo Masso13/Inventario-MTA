@@ -1,0 +1,24 @@
+<meta>
+    <info author="Masso" version="1.3" name="Sistema de Inventário" description="Um sistema de Inventário que usa sistema de request própio." type="script" />
+    
+    <script src="Edit/itens.lua" type="shared" cache="false"></script>
+    <script src="Edit/editC.lua" type="shared" cache="false"></script>
+    <script src="Edit/slotsposi.lua" type="shared" cache="false"></script>
+    
+
+    <script src="Server/scriptS.lua" type="server" cache="false"></script>
+    <script src="Client/scriptC.lua" type="client" cache="false"></script>
+    
+
+    <file src="Client/src/icons/762.png" />
+    <file src="Client/src/icons/parafal.png" />
+    <file src="Client/src/icons/ak47.png" />
+    <file src="Client/src/icons/vazio.png" />
+    <file src="Client/src/icons/th40.png" />
+    <file src="Client/src/icons/rt82.png" />
+    <file src="Client/src/icons/38.png" />
+    <file src="Client/src/icons/40.png" />
+    <file src="Client/src/icons/mt40.png" />
+    <file src="Client/src/icons/biscoito.png" />
+    <file src="Client/src/icons/agua.png"/>
+</meta>
